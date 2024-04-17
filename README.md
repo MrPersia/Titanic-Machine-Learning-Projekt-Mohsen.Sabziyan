@@ -4,7 +4,8 @@ Willkommen zu meinem ersten Machine-Learning-Projekt! In diesem Projekt habe ich
 
 ## Projektbeschreibung
 
-Das Ziel dieses Projekts war es, maschinelles Lernen anzuwenden, um Einblicke in das Überleben der Passagiere der Titanic zu gewinnen. Ich habe den bekannten "Titanic-Datensatz" verwendet, der Informationen über Passagiere wie Alter, Geschlecht, Ticketklasse usw. enthält. Mit diesen Daten habe ich verschiedene Machine-Learning-Modelle trainiert und bewertet, um dasjenige zu finden, das die besten Vorhersagen liefert.
+Das Ziel dieses Projekts war es, maschinelles Lernen anzuwenden, um Einblicke in das Überleben der Passagiere der Titanic zu gewinnen. Ich habe den bekannten "Titanic-Datensatz" verwendet, der Informationen über Passagiere wie Alter, Geschlecht, Ticketklasse usw. enthält. Mit diesen Daten habe ich verschiedene Machine-Learning-Modelle trainiert und bewertet, um dasjenige zu finden, das die besten Vorhersagen liefert. 
+ich habe mit drei verschiedene Modell gemacht.
 
 ## Verwendete Technologien
 
