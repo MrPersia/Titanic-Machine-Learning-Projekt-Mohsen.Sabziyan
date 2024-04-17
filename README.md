@@ -1,7 +1,5 @@
 # Titanic-Machine-Learning-Projekt-Mohsen.Sabziyan
 
-# Titanic Machine Learning Projekt
-
 Willkommen zu meinem ersten Machine-Learning-Projekt! In diesem Projekt habe ich einen Klassifikationsalgorithmus entwickelt, um Vorhersagen darüber zu treffen, ob ein Passagier die Titanic-​Katastrophe überlebt hat oder nicht.
 
 ## Projektbeschreibung
